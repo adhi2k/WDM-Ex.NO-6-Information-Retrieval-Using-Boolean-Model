@@ -1,8 +1,8 @@
 # WDM-Ex.NO-6-Information-Retrieval-Using-Boolean-Model
-**Information Retrieval Using Boolean Model in Python**
-**DATE:**
-**AIM:** To implement Information Retrieval Using Boolean Model in Python.
-**Description:**
+**Information Retrieval Using Boolean Model in Python**<br>
+**DATE:**<br>
+**AIM:** To implement Information Retrieval Using Boolean Model in Python.<br>
+**Description:**<br>
 The Boolean model in Information Retrieval (IR) is a fundamental model used for searching and retrieving information from a collection of documents. It operates on the principles of set theory and logic, where documents are represented as sets of terms or words, and queries are expressed as Boolean expressions using logical operators such as AND, OR, and NOT.
 **Procedure:**
 Initialize the BooleanRetrieval class: The BooleanRetrieval class is defined to manage the indexing and searching of documents.
