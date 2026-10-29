@@ -1,0 +1,1 @@
+# WDM-Ex.NO-6-Information-Retrieval-Using-Boolean-Model
